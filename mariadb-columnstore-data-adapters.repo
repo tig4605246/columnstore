@@ -1,0 +1,5 @@
+[mariadb-columnstore-data-adapters]
+name=MariaDB ColumnStore Data Adapters
+baseurl=https://downloads.mariadb.com/MariaDB/data-adapters/mariadb-streaming-data-adapters/latest/yum/centos/7/x86_64/
+gpgkey=https://downloads.mariadb.com/MariaDB/mariadb-columnstore/RPM-GPG-KEY-MariaDB-ColumnStore
+gpgcheck=1
